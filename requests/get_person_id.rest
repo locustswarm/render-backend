@@ -1,0 +1,3 @@
+GET http://localhost:3001/api/persons/1
+
+// Id can be changed for diffrent results
